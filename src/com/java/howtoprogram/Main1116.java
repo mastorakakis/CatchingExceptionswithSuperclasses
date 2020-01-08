@@ -6,7 +6,7 @@ that the catch block for type ExceptionA catches exceptions of types ExceptionB 
  */
 package com.java.howtoprogram;
 
-public class Main1016 {
+public class Main1116 {
 
     public static void main(String[] args) {
         try {
